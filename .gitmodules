@@ -4,3 +4,6 @@
 [submodule "lab-2-Dynamic-Array"]
 	path = lab-2-Dynamic-Array
 	url = https://github.com/falconice/lab-2-Dynamic-Array
+[submodule "lab-1-Hammurabi"]
+	path = lab-1-Hammurabi
+	url = https://github.com/falconice/lab-1-Hammurabi
