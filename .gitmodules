@@ -1,3 +1,6 @@
 [submodule "lab-3-Sort"]
 	path = lab-3-Sort
 	url = https://github.com/falconice/lab-3-Sort
+[submodule "lab-2-Dynamic-Array"]
+	path = lab-2-Dynamic-Array
+	url = https://github.com/falconice/lab-2-Dynamic-Array
