@@ -7,3 +7,6 @@
 [submodule "lab-1-Hammurabi"]
 	path = lab-1-Hammurabi
 	url = https://github.com/falconice/lab-1-Hammurabi
+[submodule "lab-4-MemoryManager"]
+	path = lab-4-MemoryManager
+	url = https://github.com/falconice/lab-4-MemoryManager
